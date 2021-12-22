@@ -1,0 +1,22 @@
+body{
+    background: #333;
+    overflow: hidden;
+}
+
+#socer{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#game{
+    position: absolute;
+    width: 608px;
+    height: 608px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    top: calc(50% - 304px);
+    border: 2px solid silver;
+    background: rgb(11, 73, 11)
+}
